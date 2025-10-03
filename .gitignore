@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# ============ #
+# Visual Studio #
+# ============ #
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =============== #
+# OS generated    #
+# =============== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =============== #
+# Unity Asset Store #
+# =============== #
+*.unitypackage
+
+# Crash Reports
+sysinfo.txt
+
+# ================================= #
+# Rider (JetBrains) / IDE settings  #
+# ================================= #
+.idea/
+*.sln.iml
